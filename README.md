@@ -45,7 +45,7 @@ Open another terminal in the project folder.
 - cd server
 - npm start
   
-###Accessing the Application
+### Accessing the Application
 Once the servers are running, open your browser and visit http://localhost:3000.
 
 That's it! You should now be able to access the chat application locally.
